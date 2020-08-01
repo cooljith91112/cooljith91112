@@ -1,8 +1,7 @@
 ### Hi there 👋
-I'm a Indie Game Developer/Designer & Software Engineer, trying to dive into the world of Physics, Mathematics and Astronomy.
-Die hard fan of Pixel art & anything related to numbers.
+I'm a Indie Game Developer/Designer & Software Engineer, trying to dive into the world of Physics🧲, Mathematics📏 and Astronomy🌌.
+Die hard fan of Pixel art & anything related to numbers🔢.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... A Retro style game
 - 🌱 I’m currently learning ... Relativity Theory
