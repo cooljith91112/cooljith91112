@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Hobbyist Indie Game Developer/Designer & Software Engineer, trying to dive into the world of Physics🧲, Mathematics📏 and Astronomy🌌.
+I'm a Hobbyist Indie Game Developer/Designer & Web Developer, trying to dive into the world of Physics🧲, Mathematics📏 and Astronomy🌌.
 Die hard fan of Pixel art & anything related to numbers🔢.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cooljith91112&layout=compact" align="right">
