@@ -4,15 +4,17 @@ Die hard fan of Pixel art & anything related to numbers🔢.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cooljith91112&layout=compact" align="right">
 
-- 🔭 I’m currently working on ... **A Pixel art game**
-- 🌱 I’m currently learning ... **Relativity Theory**
-- 💬 Ask me about ... **Anything**
-- 📫 How to reach me: ... [<img src="https://user-images.githubusercontent.com/2651484/89107797-194ae680-d451-11ea-9a79-a1f15087e47d.png" title="Youtube"  width="25" height="25"/>][ytchannel]
+- 🔭 I’m currently working on **A Pixel art game**
+- 🌱 I’m currently learning **Relativity Theory**
+- 💬 Ask me about **Anything**
+- 😄 Pronouns:  **Yo**
+- ⚡ Fun fact: **I hate politics but love to debate about it.**
+
+### Connect with me:
+[<img src="https://user-images.githubusercontent.com/2651484/89107797-194ae680-d451-11ea-9a79-a1f15087e47d.png" title="Youtube"  width="25" height="25"/>][ytchannel]
 [<img src="https://static.itch.io/images/itchio-textless-black.svg" title="Itch.io"  width="25" height="25"/>][itchio]
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" title="Twitter"  width="25" height="25"/>][twitter]
 [<img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5ca5bf1dff3c03fbf7cc9b3c_Kofi_logo_RGB_rounded-p-500.png" title="Ko-fi"  width="25" height="25"/>][ko-fi]
-- 😄 Pronouns: ... **Yo**
-- ⚡ Fun fact: ... **I hate politics but love to debate about it.**
 
 ### Languages and Tools:
 
