@@ -5,7 +5,7 @@ Die hard fan of Pixel art & anything related to numbers🔢.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cooljith91112&layout=compact" align="right">
 
 - 🔭 I’m currently working on **A Pixel art game**
-- 🌱 I’m currently learning **Relativity Theory**
+- 🌱 I’m currently learning **Relativity Theory** & **IoT**
 - 💬 Ask me about **Anything**
 - 😄 Pronouns:  **Yo**
 - ⚡ Fun fact: **I hate politics but love to debate about it.**
