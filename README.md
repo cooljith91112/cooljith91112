@@ -33,7 +33,7 @@ Die hard fan of Pixel art & anything related to numbers🔢.
 [<img align="left" alt="Game Maker" width="26px" title="Game Maker Studio" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gamemaker/gamemaker.png" />][ytchannel]
 
 
-[ytchannel]: https://www.youtube.com/c/INDRAJITHKL
+[ytchannel]: https://www.youtube.com/channel/UCqoc4Z-zqImKM8u3GI0CSTg
 [itchio]: https://indrajithkl.itch.io/
 [twitter]: https://twitter.com/indrajithKLIS
 [ko-fi]: https://ko-fi.com/indrajith
