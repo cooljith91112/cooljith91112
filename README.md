@@ -20,6 +20,7 @@ Die hard fan of Pixel art & anything related to numbers🔢.
 <summary>GPG Key</summary>
 <p>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+  
 mQGNBF/WY8kBDACnR9sfskexGp8JqomXmlGu2bmPFDnxJ6l4gBSg5wrespI66nKF
 lEb+/GydN81Qlqxy3GrNsp7WiApAaZ32Y2zTAEL39JI2X8LkUaM9u5kWIhqYEw/P
 poGDCJkpV1Hkvjr70HbZKfXs04xCeKxSVIPKIbsE2eiOx2kgtSbJiMA2eZYGNEy/
@@ -58,6 +59,7 @@ hM7mObgtmOV7w78ZAmOL6OpYeymalZEtaFwDWd11iymReqNH3OwhXR10KeWYBNe4
 SbLXWibW4HIHjcfRAUDk9A8LvrJ5u/qOcZWTy48ZNJCwSnIy/4o5++sIxLVTvApO
 VI1J9lj0hsB1OE+ga87HSsv7F5sXuGfPn0Q=
 =/WL9
+
 -----END PGP PUBLIC KEY BLOCK-----
   </p>
 <details>
