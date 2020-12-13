@@ -62,7 +62,7 @@ VI1J9lj0hsB1OE+ga87HSsv7F5sXuGfPn0Q=
 
 -----END PGP PUBLIC KEY BLOCK-----
   </p>
-<details>
+</details>
   
 ### Languages and Tools:
 
