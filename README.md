@@ -17,7 +17,7 @@ Die hard fan of Pixel art & anything related to numbers🔢.
 [<img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5ca5bf1dff3c03fbf7cc9b3c_Kofi_logo_RGB_rounded-p-500.png" title="Ko-fi"  width="25" height="25"/>][ko-fi]
 
 <details>
-<summary>GPG Key</summary>
+<summary>PGP Key</summary>
 <p>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
   
@@ -63,7 +63,7 @@ VI1J9lj0hsB1OE+ga87HSsv7F5sXuGfPn0Q=
 -----END PGP PUBLIC KEY BLOCK-----
   </p>
 </details>
-  
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][ytchannel]
