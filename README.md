@@ -2,7 +2,7 @@
 I'm a Hobbyist Indie Game Developer/Designer & Web Developer, trying to dive into the world of Physics🧲, Mathematics📏 and Astronomy🌌.
 Die hard fan of Pixel art & anything related to numbers🔢.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cooljith91112&layout=compact" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cooljith91112&layout=compact&langs_count=10" align="right">
 
 - 🔭 I’m currently working on **A Pixel art game**
 - 🌱 I’m currently learning **Relativity Theory** & **IoT**
@@ -79,18 +79,6 @@ VI1J9lj0hsB1OE+ga87HSsv7F5sXuGfPn0Q=
 [<img align="left" alt="Haxe Flixel" width="26px" title="Haxe Flixel" src="https://haxeflixel.com/images/haxeflixel.svg" />][ytchannel]
 [<img align="left" alt="Aseprite" width="26px" title="Aseprite" src="https://raw.githubusercontent.com/aseprite/aseprite/master/data/icons/ase256.png" />][ytchannel]
 [<img align="left" alt="Game Maker" width="26px" title="Game Maker Studio" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gamemaker/gamemaker.png" />][ytchannel]
-
-<br/>
-<hr/>
-
-<details>
-<summary>Top Languages</summary>
-<p>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cooljith91112&langs_count=10)
-  
-</p>
-</details>
 
 [ytchannel]: https://www.youtube.com/channel/UCqoc4Z-zqImKM8u3GI0CSTg
 [itchio]: https://indrajithkl.itch.io/
