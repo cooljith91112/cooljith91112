@@ -88,5 +88,5 @@ VI1J9lj0hsB1OE+ga87HSsv7F5sXuGfPn0Q=
 [itchio]: https://indrajithkl.itch.io/
 [twitter]: https://twitter.com/indrajithKLIS
 [ko-fi]: https://ko-fi.com/indrajith
-[things-of-internet]: http://thingsofinternet.org/
+[things-of-internet]: https://thingsofinternet.org/
 [indrajith-makes-games]: https://indrajithmakesgames.com/
