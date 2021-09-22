@@ -10,10 +10,13 @@ Die hard fan of Pixel art & anything related to numbers🔢.
 - 😄 Pronouns:  **Yo**
 - ⚡ Fun fact: **I hate politics but love to debate about it.**
 
-### My Websites:
-[Things of Internet][things-of-internet] - A Decentralized Website hosted on IPFS.
+### Note
+I'm in a process of moving/synching my repos to sourcehut. You can find my repos here [🔗 https://sr.ht/~cooljith91112/][sourcehut]
 
-[Indrajith Makes Games][indrajith-makes-games] - Collection of My own games
+### My Websites:
+[🔗 Things of Internet][things-of-internet] - A Decentralized Website hosted on IPFS.
+
+[🔗 Indrajith Makes Games][indrajith-makes-games] - Collection of My own games
 ### Connect with me:
 [<img src="https://user-images.githubusercontent.com/2651484/89107797-194ae680-d451-11ea-9a79-a1f15087e47d.png" title="Youtube"  width="25" height="25"/>][ytchannel]
 [<img src="https://static.itch.io/images/itchio-textless-black.svg" title="Itch.io"  width="25" height="25"/>][itchio]
@@ -90,3 +93,4 @@ VI1J9lj0hsB1OE+ga87HSsv7F5sXuGfPn0Q=
 [ko-fi]: https://ko-fi.com/indrajith
 [things-of-internet]: https://thingsofinternet.org/
 [indrajith-makes-games]: https://indrajithmakesgames.com/
+[sourcehut]: https://sr.ht/~cooljith91112/
