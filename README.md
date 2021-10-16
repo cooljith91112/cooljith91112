@@ -70,7 +70,8 @@ VI1J9lj0hsB1OE+ga87HSsv7F5sXuGfPn0Q=
 -----END PGP PUBLIC KEY BLOCK-----
   </p>
 </details>
-<img src="now_playing.svg">
+
+<img src="https://raw.githubusercontent.com/cooljith91112/cooljith91112/master/now_playing.svg" height=50>
 
 ### Languages and Tools:
 
