@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125.59mm" height="39.287mm" version="1.1" viewBox="0 0 125.59 39.287" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-70.443 -139.86)">
+  <rect x="70.852" y="140.27" width="124.77" height="38.469" ry="3.0172" fill="#80a" stroke="#80a" stroke-opacity="0" stroke-width=".81819"/>
+  <text x="80.853882" y="161.88351" fill="#1a1a1a" font-family="zeuin" font-size="10.583px" stroke="#1a1a1a" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="80.853882" y="161.88351" fill="#1a1a1a" font-family="zeuin" stroke="#1a1a1a" stroke-width=".26458">Not Playing Anything<currently-playing/></tspan></text>
+  <text x="80.035957" y="160.89047" fill="#ffffff" font-family="zeuin" font-size="10.583px" stroke="#ffffff" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="80.035957" y="160.89047" fill="#ffffff" font-family="zeuin" stroke="#ffffff" stroke-width=".26458">Not Playing Anything<currently-playing/></tspan></text>
+ </g>
+</svg>
