@@ -71,7 +71,7 @@ VI1J9lj0hsB1OE+ga87HSsv7F5sXuGfPn0Q=
   </p>
 </details>
 
-<img src="https://raw.githubusercontent.com/cooljith91112/cooljith91112/master/now_playing.svg" height=50>
+<img src="https://raw.githubusercontent.com/cooljith91112/cooljith91112/master/now_playing.svg" height=50  title="You can see what music I'm currently listening to">
 
 ### Languages and Tools:
 
