@@ -74,7 +74,7 @@ VI1J9lj0hsB1OE+ga87HSsv7F5sXuGfPn0Q=
   </p>
 </details>
 
-<img src="https://raw.githubusercontent.com/cooljith91112/cooljith91112/master/now_playing.svg" height=50  title="You can see what music I'm currently listening to">
+<img src="now_playing.svg" height=50  title="You can see what music I'm currently listening to">
 
 ### Languages and Tools:
 
@@ -90,7 +90,8 @@ VI1J9lj0hsB1OE+ga87HSsv7F5sXuGfPn0Q=
 [<img align="left" alt="Haxe" width="26px" title="Haxe" src="https://haxe.org/img/branding/haxe-logo-vertical.png" />][ytchannel]
 [<img align="left" alt="Haxe Flixel" width="26px" title="Haxe Flixel" src="https://haxeflixel.com/images/haxeflixel.svg" />][ytchannel]
 [<img align="left" alt="Aseprite" width="26px" title="Aseprite" src="https://raw.githubusercontent.com/aseprite/aseprite/master/data/icons/ase256.png" />][ytchannel]
-[<img align="left" alt="Game Maker" width="26px" title="Game Maker Studio" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gamemaker/gamemaker.png" />][ytchannel]
+[<img align="left" alt="Game Maker" width="26px" title="Game Maker Studio" src="img/gm_img.png" />][ytchannel]
+[<img align="left" alt="Godot" width="26px" title="Game Maker Studio" src="img/godot.svg" />][ytchannel]
 
 [ytchannel]: https://www.youtube.com/channel/UCqoc4Z-zqImKM8u3GI0CSTg
 [itchio]: https://indrajithkl.itch.io/
