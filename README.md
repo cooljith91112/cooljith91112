@@ -2,8 +2,6 @@
 I'm a Hobbyist Indie Game Developer/Designer & Web Developer, trying to dive into the world of Physics🧲, Mathematics📏 and Astronomy🌌.
 Die hard fan of Pixel art & anything related to numbers🔢.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cooljith91112&layout=compact&langs_count=10" align="right">
-
 - 🔭 I’m currently working on **A Pixel art game**
 - 🌱 I’m currently learning **Relativity Theory** & **IoT**
 - 💬 Ask me about **Anything**
@@ -17,6 +15,11 @@ I'm in a process of moving/synching my repos to sourcehut. You can find my repos
 [🔗 Things of Internet][things-of-internet] - A Decentralized Website hosted on IPFS.
 
 [🔗 Indrajith Makes Games][indrajith-makes-games] - Collection of My own games
+
+### Stackoverflow Showoff
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cooljith91112&layout=compact&langs_count=10" align="right">
+<a href="https://stackexchange.com/users/4681202"><img src="https://stackexchange.com/users/flair/4681202.png?theme=dark" width="208" height="58" alt="profile for Indrajith on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Indrajith on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 ### Connect with me:
 [<img src="https://user-images.githubusercontent.com/2651484/89107797-194ae680-d451-11ea-9a79-a1f15087e47d.png" title="Youtube"  width="25" height="25"/>][ytchannel]
 [<img src="https://static.itch.io/images/itchio-textless-black.svg" title="Itch.io"  width="25" height="25"/>][itchio]
