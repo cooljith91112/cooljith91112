@@ -16,8 +16,9 @@ I'm in a process of moving/synching my repos to sourcehut. You can find my repos
 
 [🔗 Indrajith Makes Games][indrajith-makes-games] - Collection of My own games
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cooljith91112&layout=compact&langs_count=30&show_icons=true&theme=radical&count_private=true" align="right">
+
 ### Stackoverflow Showoff
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cooljith91112&layout=compact&langs_count=10" align="right">
 <a href="https://stackexchange.com/users/4681202"><img src="https://stackexchange.com/users/flair/4681202.png?theme=dark" width="208" height="58" alt="profile for Indrajith on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Indrajith on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ### Connect with me:
