@@ -23,7 +23,7 @@ I'm in a process of moving/synching my repos to sourcehut. You can find my repos
 
 ### Connect with me:
 [<img src="https://user-images.githubusercontent.com/2651484/89107797-194ae680-d451-11ea-9a79-a1f15087e47d.png" title="Youtube"  width="25" height="25"/>][ytchannel]
-[<img src="https://static.itch.io/images/itchio-textless-white.svg" title="Itch.io"  width="25" height="25"/>][itchio]
+[<img src="https://static.itch.io/images/app-icon.svg" title="Itch.io"  width="25" height="25"/>][itchio]
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" title="Twitter"  width="25" height="25"/>][twitter]
 [<img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5ca5bf1dff3c03fbf7cc9b3c_Kofi_logo_RGB_rounded-p-500.png" title="Ko-fi"  width="25" height="25"/>][ko-fi]
 
