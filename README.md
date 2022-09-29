@@ -9,7 +9,7 @@ Die hard fan of Pixel art & anything related to numbers🔢.
 - ⚡ Fun fact: **I hate politics but love to debate about it.**
 
 ### Note
-I'm in a process of moving/synching my repos to sourcehut. You can find my repos here [🔗 https://sr.ht/~cooljith91112/][sourcehut]
+I'm in a process of moving/synching my repos to my personal git. You can find my repos here [🔗 https://gitbucket.indrajith.dev/][personal-git]
 
 ### My Websites:
 [🔗 Things of Internet][things-of-internet] - A Decentralized Website hosted on IPFS.
@@ -74,3 +74,4 @@ mfnaSYUiPBAA/jh7iSiPGnl0vKZxKj83UnJjt36Wvb7XQd2XiF8aUoAN
 [things-of-internet]: https://thingsofinternet.org/
 [indrajith-makes-games]: https://indrajithmakesgames.com/
 [sourcehut]: https://sr.ht/~cooljith91112/
+[personal-git]: https://gitbucket.indrajith.dev/
