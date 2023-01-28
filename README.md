@@ -12,8 +12,6 @@ Die hard fan of Pixel art & anything related to numbers🔢.
 I'm in a process of moving/synching my repos to my personal git. You can find my repos here [🔗 https://git.indrajith.dev/][personal-git]
 
 ### My Websites:
-[🔗 Things of Internet][things-of-internet] - A Decentralized Website hosted on IPFS.
-
 [🔗 Indrajith Makes Games][indrajith-makes-games] - Collection of My own games
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cooljith91112&layout=compact&langs_count=30&count_private=true" align="right">
